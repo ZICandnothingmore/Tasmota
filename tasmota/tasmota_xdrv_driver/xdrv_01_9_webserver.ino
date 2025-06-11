@@ -270,7 +270,7 @@ const char HTTP_HEAD_STYLE3[] PROGMEM =
 #endif
 */
   "<h3>%s</h3>"    // Module name
-  "<h2>%s</h2>";   // Device name
+  "<h2><img src='https://i.postimg.cc/1tVB2QS1/01-logobachkhoatoi.png' width='200px' height='200px'></h2>";   // Device name
 
 const char HTTP_MENU_HEAD[] PROGMEM =
   "<div style='padding:0px 5px;text-align:center;'><h3><hr/>%s<hr/></h3></div>";
